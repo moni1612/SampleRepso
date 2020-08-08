@@ -13,11 +13,8 @@ It is created to work with markdown syntax
 
 ##### This is harideep
 
-###### This is harideep
+###### This is haridep
 
-- Apple
-  - Apple1
-  - Apple2
-  - Apple3
--Mango
+unorderd list
+- apple
 - orange
