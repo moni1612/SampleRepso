@@ -29,3 +29,6 @@ Orderde list
 
 insert image
 ![Sun Flower](https://www.ikea.com/in/en/images/products/smycka-artificial-flower-sunflower-yellow__0797552_PE767319_S5.JPG)
+
+
+<img src="https://www.ikea.com/in/en/images/products/smycka-artificial-flower-sunflower-yellow__0797552_PE767319_S5.JPG",width=100,height=80>
