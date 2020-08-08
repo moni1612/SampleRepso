@@ -40,7 +40,7 @@ https://gmail.com/)
 
 tables
 
-Name | Roll Number
----- | --------
-Monisha | 18jg1a1227
-Rajesh | 18jg1a12469
+Name | Roll Number | City
+---- | -------- | ------
+Monisha | 18jg1a1227 | VZM
+Rajesh | 18jg1a12469 | Vizag
