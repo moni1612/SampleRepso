@@ -44,3 +44,14 @@ Name | Roll Number | City
 ---- | -------- | ------
 Monisha | 18jg1a1227 | VZM
 Rajesh | 18jg1a12469 | Vizag
+
+
+```python
+
+def add(a,b):
+  c=a+b;
+  print(c)
+  
+  
+  add(12,5)
+  ```
